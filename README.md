@@ -1,1 +1,2 @@
-# konhu(https://github.com/Johnmusi/konhu
+# konhu
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/https://github.com/Johnmusi/konhu)
